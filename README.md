@@ -1,4 +1,4 @@
-**## Hi there, I'm lwujanlee 👋
+** Hi there, I'm lwujanlee 👋
 
 ## About Me
 - 🌱 I'm currently learning and growing my skills
