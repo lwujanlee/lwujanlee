@@ -10,7 +10,7 @@
 ## 🛠️ Tech Stack
 - Languages: JavaScript, HTML, CSS
 - Tools: Git, GitHub
-- Learning: React, Node.js
+- Learning: React, Node.js, Python
 
 ## 📊 GitHub Stats
 ![lwujanlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwujanlee&show_icons=true&theme=dark)
