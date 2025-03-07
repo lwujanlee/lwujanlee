@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm lwujanlee 👋
+# Hi there, I'm Mustafa Ozan👋
 
 [![GitHub followers](https://img.shields.io/github/followers/lwujanlee?label=Follow&style=social)](https://github.com/lwujanlee)
 [![Profile Views](https://komarev.com/ghpvc/?username=lwujanlee&color=brightgreen&style=flat)](https://github.com/lwujanlee)
@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lwujanlee&theme=tokyonight" alt="lwujanlee's streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lwujanlee&theme=tokyonight" alt="Mustafa Ozan's streak" />
 </div>
 
 ## 🔍 Currently Exploring
